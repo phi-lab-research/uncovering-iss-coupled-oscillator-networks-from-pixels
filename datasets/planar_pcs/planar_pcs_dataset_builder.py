@@ -214,7 +214,7 @@ class PlanarPcs(tfds.core.GeneratorBasedBuilder):
                 "rendering_ts",
                 "rendering_ts",
             ),  # Set to `None` to disable
-            homepage="https://github.com/tud-cor-sr/learning-representations-from-first-principle-dynamics",
+            homepage="https://github.com/phi-lab-research/uncovering-iss-coupled-oscillator-networks-from-pixels",
         )
 
     def _split_generators(self, dl_manager: tfds.download.DownloadManager):
